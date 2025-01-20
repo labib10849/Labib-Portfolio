@@ -113,7 +113,7 @@ img {
 }
 
 .nav-button:hover {
-  background-color: rgb(0, 251, 255); /* Darker shade on hover */
+  background-color: rgb(0, 26, 255); /* Darker shade on hover */
   color: #000000;
 }
 
